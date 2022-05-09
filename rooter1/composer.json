@@ -1,0 +1,17 @@
+{
+    "name": "onem/rooter",
+    "autoload": {
+        "psr-4": {
+            "Onem\\Rooter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julie",
+            "email": "juptsr.becode@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}
