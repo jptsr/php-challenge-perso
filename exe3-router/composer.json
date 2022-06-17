@@ -1,0 +1,15 @@
+{
+    "name": "onem/exe3-router",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julie",
+            "email": "juptsr.becode@gmail.com"
+        }
+    ],
+    "require": {}
+}
